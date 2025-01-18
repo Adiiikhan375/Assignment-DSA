@@ -1,0 +1,2 @@
+This program implements the binary search algorithm to find the index of a target number in a sorted array. If the target is found, it returns the index; otherwise, it returns -1, indicating the target is not present in the array.
+This program implements the linear search algorithm to find the index of a target number in an array. It checks each element one by one. If the target is found, it returns the index; if not, it returns -1, indicating the target is not present.

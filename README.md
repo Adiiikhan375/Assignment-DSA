@@ -89,6 +89,6 @@ Linear Search
 Best Case: O(1) 
 Worst Case: O(n) 
  
- 
+ linkedin post:https://www.linkedin.com/posts/adiii-khan-191544347_algorithms-linearsearch-binarysearch-activity-7286648840525369344-XNW_?utm_source=social_share_send&utm_medium=android_app&utm_campaign=copy_link
 
  
